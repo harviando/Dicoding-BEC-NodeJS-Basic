@@ -1,5 +1,5 @@
 // TODO 1
-import { EventEmitter } from 'events';
+const { EventEmitter } = require('events');
 
 function birthdayEventListener({name}) {
     console.log(`Happy birthday ${name}!`);

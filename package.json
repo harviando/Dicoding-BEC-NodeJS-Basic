@@ -1,7 +1,6 @@
 {
   "name": "nodejs-basic",
   "version": "1.0.0",
-  "type": "module",
   "description": "Dicoding BE Execise 1 - Basic Node JS",
   "main": "index.js",
   "scripts": {
